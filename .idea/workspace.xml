@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="719fae25-40dd-42ee-b510-3a7d47d0e13a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g0cjmCtPcOGwgOp8mgXHO7CMsF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="W:/ОКТЕН_ВЕБ/html/3h/homework311.html" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/3818eb7e-e49d-4b77-ba6a-2d4e6ddbed91/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.console.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="719fae25-40dd-42ee-b510-3a7d47d0e13a" name="Default Changelist" comment="" />
+      <created>1597255099372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597255099372</updated>
+      <workItem from="1597255107285" duration="583000" />
+      <workItem from="1597305238871" duration="1355000" />
+      <workItem from="1597337368468" duration="5686000" />
+      <workItem from="1597823566722" duration="1731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1597255234137">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1597255234137" />
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597350734344">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597350734344" />
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1597255207230" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1597350754622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597350754622" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1597824546992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597824546992" />
+    <state width="904" height="258" key="GridCell.Tab.0.bottom" timestamp="1597824685681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="258" key="GridCell.Tab.0.bottom/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597824685681" />
+    <state width="904" height="258" key="GridCell.Tab.0.center" timestamp="1597824685681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="258" key="GridCell.Tab.0.center/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597824685681" />
+    <state width="904" height="258" key="GridCell.Tab.0.left" timestamp="1597824685680">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="258" key="GridCell.Tab.0.left/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597824685680" />
+    <state width="904" height="258" key="GridCell.Tab.0.right" timestamp="1597824685681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="258" key="GridCell.Tab.0.right/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597824685681" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1597350809801">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597350809801" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1597255367249" />
+    <state x="582" y="245" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1597350701875">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="582" y="245" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597350701875" />
+    <state x="65" y="51" key="new project wizard" timestamp="1597823912706">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="51" key="new project wizard/0.0.1366.738/-1152.0.1152.864@0.0.1366.738" timestamp="1597823912706" />
+  </component>
+</project>
